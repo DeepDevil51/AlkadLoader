@@ -13,4 +13,4 @@
 * Improved Cleaning up times
 * Added An alternative method of rust detection for those with long cleaning up times, you just gotta put the loader in your rust folder
 
-###Please note that on this current version of Alkad Rust (v2580) Superiority is NOT supported, its not my bypasser's issue.
+### Please note that on this current version of Alkad Rust (v2580) Superiority is NOT supported, its not my bypasser's issue.
