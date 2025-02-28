@@ -1,6 +1,12 @@
 # AlkadPatcher
 ## if you do reverse it and post it, dont protect it or obfuscate it. Keep contributing the community!
 
+# [UPDATE] 28/02/2025
+## Alkad Rust EAC Bypasser | Auto-Updating Rust EAC Bypasser
+### A C++ Tool to Bypass EAC on the pirate version of Rust (Alkad Rust)
+### Update:
+* Added Warning for those who were using the previos version of the bypasser
+
 # [UPDATE] 27/02/2025
 ## Alkad Rust EAC Bypasser | Auto-Updating Rust EAC Bypasser
 ### A C++ Tool to Bypass EAC on the pirate version of Rust (Alkad Rust)
